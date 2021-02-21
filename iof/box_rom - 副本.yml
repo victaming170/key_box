@@ -1,0 +1,40 @@
+notes:
+  1:
+  - clantu
+  - www.clantu.com
+  - "\u4F60\u597D"
+  - 134-0000-1111
+  - 13400001111@163.com
+  - wuliyadakama
+  - nothing
+  - None
+  2:
+  - new bird
+  - www.newbd.net
+  - v123
+  - 134-0000-1111
+  - None
+  - faceless
+  - nothing
+  - None
+  3:
+  - runoob
+  - www.runoob.com
+  - vitmii
+  - '1234'
+  - nothing@oob
+  - '8934562'
+  - nothing
+  - '456.15'
+setting:
+  encodng: utf-8
+  login_password: pass0221
+  note_content:
+  - WebName
+  - URL
+  - User
+  - TEL
+  - Email
+  - Password
+  - Remark
+  - Local_Password
